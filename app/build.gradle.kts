@@ -55,7 +55,7 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
 
     // Android Debug Web View
-    implementation("com.github.GmdDev074:Database-DEBUG-Loger-Web-View:1.8.0")
+    implementation("com.github.GmdDev074:Database-DEBUG-Loger-Web-View:1.8.1")
 
     // PaperDB
     implementation("io.github.pilgr:paperdb:2.7.2")
